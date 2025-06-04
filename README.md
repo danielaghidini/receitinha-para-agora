@@ -1,16 +1,23 @@
-# receitinha_para_agora
+# 🍳 Receitinha para agora!
 
-A new Flutter project.
+Um app Flutter onde você escolhe os ingredientes que tem em casa e recebe sugestões de receitas geradas por inteligência artificial!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- Seleção fácil de ingredientes com botões (chips)
+- Geração automática de receitas usando OpenAI (ChatGPT)
+- Interface moderna e responsiva
+- Pode rodar em dispositivos Android ou Web
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Tecnologias utilizadas
+
+- [Flutter](https://flutter.dev)
+- [Dart](https://dart.dev)
+- [OpenAI API](https://platform.openai.com)
+- HTTP requests (`http` package)
+
+---
